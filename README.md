@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cloud Computing.
 - 💞️ I’m looking to collaborate on YouTube.
 - 💬 Ask me about Android or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @NokhaizAD](https://twitter.com/NokhaizAd), [GMail: nokhaizad@gmail.com](mailto:nokhaizad@gmail.com)
+- 📫 How to reach me: [Twitter - @NokhaizAD](https://twitter.com/NokhaizAd), [Gmail: nokhaizad@gmail.com](mailto:nokhaizad@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=NokhaizAD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <!---
